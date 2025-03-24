@@ -34,7 +34,7 @@ It's a great way to learn.
 * [Voxel Engine](#build-your-own-voxel-engine)
 * [Web Browser](#build-your-own-web-browser)
 * [Web Server](#build-your-own-web-server)
-* [Uncategorized](#uncategorized)
+* [Uncategorized](#uncategorized) 
 
 ## Tutorials
 
